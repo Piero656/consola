@@ -1,0 +1,17 @@
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\bin\Debug\net6.0\PruebaConsola.exe
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\bin\Debug\net6.0\PruebaConsola.deps.json
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\bin\Debug\net6.0\PruebaConsola.runtimeconfig.json
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\bin\Debug\net6.0\PruebaConsola.dll
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\bin\Debug\net6.0\PruebaConsola.pdb
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.AssemblyInfoInputs.cache
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.AssemblyInfo.cs
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.csproj.CopyComplete
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.dll
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\refint\PruebaConsola.dll
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.pdb
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\PruebaConsola.genruntimeconfig.cache
+C:\Users\Piero\Documents\Desarrollador\Cursos\.Net\PruebaConsola\PruebaConsola\obj\Debug\net6.0\ref\PruebaConsola.dll
