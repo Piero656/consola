@@ -30,6 +30,7 @@ else
 
 do
 {
+    Console.WriteLine("\n\n");
     Console.WriteLine("Menu de opciones\n\n");
     Console.WriteLine("opt 1: Listar empleados");
     Console.WriteLine("opt 2: agregar un nueva empleado de la lista");
@@ -57,7 +58,7 @@ do
         case 2:
 
 
-            Console.WriteLine("\nEl id del empleado que desea agregar");
+            Console.WriteLine("\nIngrese el id del empleado que desea agregar");
 
 
             var id = Convert.ToInt32(Console.ReadLine());
@@ -67,15 +68,15 @@ do
 
             if (empleado != null)
             {
-                var responsePost = await client.PostAsJsonAsync("https://localhost:44363/api/employee", new
+                var responsePost = await client.PostAsJsonAsync("http://localhost:8081/api/employee", new
                 {
                     Name = empleado.EmployeeName,
-                    Document_Number = "",
+                    Document_Number = "0000000",
                     Salary = empleado.EmployeeSalary,
                     Age = empleado.EmployeeAge,
                     Profile = empleado.ProfileImage,
-                    Phone = "998544772",
-                    Email = "pablo@gmail.com"
+                    Phone = "000000000",
+                    Email = $"{empleado.EmployeeName}@gmail.com"
                 });
 
                 if (responsePost.IsSuccessStatusCode)
